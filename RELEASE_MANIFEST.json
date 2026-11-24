@@ -1,0 +1,40 @@
+{
+  "image": {
+    "filename": "driftguard-next-linux-amd64.tar",
+    "sha256": "1c82d22acc97778d48f300b95b47026d3815d0c3be1e297b3d13de876ffe67dd",
+    "platform": "linux/amd64",
+    "tag": "driftguard-enterprise-next:20261124t121407232929"
+  },
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "DEPENDENCY_ORIGINS.json": "f1e1e95235cd0ac6632acae44bcdb8e300caf1b0cd75745c7682cf524c09a92c",
+    "Dockerfile": "e064ac8b8854d5dc38bb4b347278750faa6b606d25999d89c4466f4af6085560",
+    "NOTICE.md": "5bddc91c9b3eb2a3f2da3a258e9e61e5f4924403531fe66e7c8301ea8c1b8189",
+    "README.md": "ce34580f924fe9b0e7e8a8fe7329341d22c764aa81d19ad249df116630d75c04",
+    "SDK_SOURCE.json": "d2a821809db8230374dd4b1a78e05192c10a61dd7ae74622d995c9b8c1c83520",
+    "contest_submission.py": "3390ff5f9620c68b66a36aa5e03f1ded529604de59f7abefa5ba4d0aae680cce",
+    "harness.py": "6ef17e7dfd73558daf8464f7be8b1e963ccf103c76638c623911ec5c334c93f5",
+    "src/zhixun/__init__.py": "f9cdeb68354bb72e0f6716800e404cd56e7652516f557ce7a9611561835fab75",
+    "src/zhixun/a_gas_runtime.py": "297a77084d2e6762a556cb5934aa6b77c17c1290c72dff56050e8ab34742afd8",
+    "src/zhixun/a_next_round.py": "9c77725eee4256c5b80e7d842e2e20e69a07522b46e205edd5b3b962ee07b543",
+    "src/zhixun/b_residual.py": "b56ed115832f1eea03daf90c38e618f04db72ab49f417b0ddee57f33ef5a0e23",
+    "src/zhixun/b_residual_tail.py": "c2724f3c0e0c4f11aca8ce3e8f2325da3e3ba20040b1e524268de06391219c40",
+    "src/zhixun/b_round_model.py": "1f8937895a66ab169c5c3332833c3dcd2c56e332e47358acedce2e6301202c7f",
+    "src/zhixun/c_boost_runtime.py": "a6e9ca5e29aa5bf3bfed93eac8b508d513954e2a986ce3a88da8771de66dabfb",
+    "src/zhixun/c_model.py": "978b9c6681c9c5bb708f8bbdea7d3431d61d3d311cf95162c1c638a7a615c97e",
+    "src/zhixun/c_round.py": "4e427a0edf2bd85487e496f328d885ec0f74443129c280477f0d9ff935059182",
+    "src/zhixun/c_round_model.py": "4f58efa1fd1eebde95af4314b3e2b611a0787010fa9167351551d7bf5c3a04ac",
+    "src/zhixun/c_trio_protocol.py": "b285b66b6ba02d52206429c16475ab240a88a26597856694440ce19e1997ea30",
+    "src/zhixun/contest_c_runtime.py": "5590abbbf1cbac2cd985386c3203d780d921cec4bbe8421c51f2eb299aa82d85",
+    "src/zhixun/contest_next_runtime.py": "17b5999a9496004fcf896e7c6b5a19a01a4ff7a9f995f9762c6944a4809b62b8",
+    "src/zhixun/contest_runtime.py": "93926a9396e56e33743bb21fc640bbee3900d526e97ec8fc4e607019d7e7f613",
+    "src/zhixun/data.py": "3353328621427881debda5f2d8f43042b66089e525e162e8a91f020f87a2cb92",
+    "src/zhixun/metrics.py": "d8a34941189da17ea36c9e9aa064836dc6d96d2ad539a42e6d23737a67f66cdb",
+    "src/zhixun/model_extension.py": "4ecc9bee1bc01ace15e14c5e3cfe8d525a683bfe248fa2a118b68f0333606a12",
+    "src/zhixun/tracking.py": "dcacdd010972b95cb4e87bd421a30b561f853e1842e32b23ae4fc050a44c1af4",
+    "src/zhixun/vendor/__init__.py": "920291bddac93abcca5c945cd42dce49aab024f92b3a1f5792c18afb0bf425e3",
+    "src/zhixun/vendor/data.py": "6099e312829ac3aaf48209ec1f618532c4a8552fedf73f09cf31c8876261db65",
+    "src/zhixun/vendor/model.py": "325026d80747eb36f39c8df1be02b640ae21b3cd082827c66aacbdf273dd61c5",
+    "wheels/requirements.txt": "6d103f46af3544603e39eb06615d0a06bd420f4220678a0e2a15f7e5e2dc3cfc"
+  }
+}
